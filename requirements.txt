@@ -2,13 +2,12 @@ pandas
 re
 numpy
 sklearn
-matplotlib.pyplot
+matplotlib
 transformers
-scipy.special
+scipy
 torch
 os
 nltk
-nltk.corpus
 streamlit
 pandas
 random
