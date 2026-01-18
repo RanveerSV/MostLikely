@@ -1,7 +1,6 @@
 pandas
 re
 numpy
-scikit-learn
 sklearn
 matplotlib
 transformers
